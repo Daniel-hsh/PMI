@@ -1,0 +1,4 @@
+- Incubadora vira montagem, pois será necessário colocar 
+uma dobradiça para para enfatizar que é uma porta
+- colocar textura vidro em berço
+
